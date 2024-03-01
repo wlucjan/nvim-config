@@ -1,2 +1,2 @@
 require("wlucjan")
-print("hello")
+print("Initializing NeoVim")
